@@ -1,10 +1,15 @@
 # mydropbox-fun
 
 CMPE 281: Cloud Project-1 MyDropBox
+
 University Name: http://www.sjsu.edu/
+
 Course: Cloud Technologies
+
 Professor: Sanjay Garje
+
 ISA: Anushri Srinath Aithal
+
 Student: Poorva Agarwal
 
 Project Introduction 
