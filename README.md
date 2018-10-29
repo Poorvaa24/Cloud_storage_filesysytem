@@ -1,5 +1,5 @@
 # mydropbox-fun
-mydropbox.fun is a full stack web application. It allows user to sotre files using cloud infrastructure.
+mydropbox.fun is a full stack web application. It allows user to store files using cloud infrastructure.
 
 Project Introduction 
 Mydropbox application is the integrated solution for users to allow secure file access and
