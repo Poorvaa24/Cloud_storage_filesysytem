@@ -405,4 +405,4 @@ def InsertUserToDB(first_name, last_name, email, password, created, role):
 	mysql.connection.commit()
 	
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True,host="0.0.0.0",port=5000)
