@@ -1,5 +1,11 @@
 # mydropbox-fun
-mydropbox.fun is a full stack web application. It allows user to store files using cloud infrastructure.
+
+CMPE 281: Cloud Project-1 MyDropBox
+University Name: http://www.sjsu.edu/
+Course: Cloud Technologies
+Professor: Sanjay Garje
+ISA: Anushri Srinath Aithal
+Student: Poorva Agarwal
 
 Project Introduction 
 Mydropbox application is the integrated solution for users to allow secure file access and
