@@ -64,7 +64,7 @@ Set AWS Code Deploy Application to automate the build deploy to EC2 instance.
 
 ### Configuration on Local Machine
 
-**Softwares required to be setup : **Python, Flask, Boto3, Apache2, MYSQL Workbench
+**Softwares required to be setup :** Python, Flask, Boto3, Apache2, MYSQL Workbench
 
 **Run project locally**
 
