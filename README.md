@@ -40,6 +40,16 @@ Mydropbox application is the integrated solution for users to allow secure file 
 
  ![alt text](Screenshots/DeleteFiles.png)
  
+8. Admin Features
+
+List of Users
+
+ ![alt text](Screenshots/ListOfUsers.png)
+ 
+List of Files
+
+ ![alt text](Screenshots/Adminfiles.png)
+ 
 ### Architecture Diagram
 
 ![alt text](Screenshots/Diagram1.jpg)
