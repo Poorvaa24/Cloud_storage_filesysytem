@@ -14,19 +14,35 @@ Mydropbox application is the integrated solution for users to allow secure file 
 
 1. Register an Account
 
+ ![alt text](Screenshots/Register.png)
+
 2. Sign into the application
 
+ ![alt text](Screenshots/Register.png)
+ 
 3. Upload a file
 
+ ![alt text](Screenshots/FileUpload.png)
+ 
 4. List of all files
 
+ ![alt text](Screenshots/ListofFiles.png)
+ 
 5. Download files
 
+ ![alt text](Screenshots/DownloadFile.png)
+ 
 6. Update File
 
+ ![alt text](Screenshots/FileUpdate.png)
+ 
 7. Delete Files
 
+ ![alt text](Screenshots/DeleteFiles.png)
+ 
 ### Architecture Diagram
+
+![alt text](Screenshots/Diagram1.jpg)
 
 ### PreRequisites
 AWS Components to be set up-
